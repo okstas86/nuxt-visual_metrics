@@ -23,7 +23,7 @@
 						class="flex h-9 w-9 shrink-0 items-center justify-center rounded-full overflow-hidden border bg-background"
 					>
 						<img
-							src="../assets/img/avatar.PNG"
+							src="https://randomuser.me/api/portraits/med/men/79.jpg"
 							alt="Logged in user"
 							class="w-full h-full"
 						/>

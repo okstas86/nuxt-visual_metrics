@@ -1,7 +1,7 @@
 <template>
 	<div>
 		<img
-			src="../assets/img/avatar.PNG"
+			src="https://randomuser.me/api/portraits/med/men/79.jpg"
 			alt="Logged in user"
 			class="mx-auto w-28 h-28 rounded-full ring-1 ring-border"
 		/>

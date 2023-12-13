@@ -8,6 +8,7 @@ export default defineNuxtConfig({
 		'nuxt-headlessui',
 		'@morev/vue-transitions/nuxt',
 	],
+
 	tailwindcss: { exposeConfig: true },
 	headlessui: { prefix: 'H' },
 	app: {
